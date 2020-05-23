@@ -9,6 +9,9 @@ font-family: 'Rokkitt', serif;
 font-family: 'Shadows Into Light Two', cursive;
 */
 /* Body */
+body {
+  margin: 0;
+}
 
 h1 {
   font-family: 'Chewy', cursive;
@@ -24,7 +27,6 @@ h1 {
   overflow: hidden;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
 }
 
 /* Links inside the navbar */
@@ -36,10 +38,15 @@ h1 {
   padding: 14px 16px;
   text-decoration: none;
 }
+/* Navbar Image */
+.navbar-img {
+  width: 30px;
+  height: 30px;
+}
 
 /* Change background on mouse-over */
-.navbar a:hover {
-  background: #5fdde5;
+.navbar-img a:hover {
+  background-color: #5fdde5;
+}
 
-
-/* Banner */
+/* Banner Image */
