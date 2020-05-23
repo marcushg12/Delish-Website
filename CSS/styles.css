@@ -41,7 +41,7 @@ hr {
 .navbar {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  height: 30px;
+  height: 2rem;
   width: auto;
 }
 
@@ -54,8 +54,8 @@ hr {
 }
 /* Navbar Image */
 .navbar-img {
-  width: 30px;
-  height: 30px;
+  width: 2rem;
+  height: 2rem;
 }
 
 /* Change background on mouse-over */
