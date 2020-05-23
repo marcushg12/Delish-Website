@@ -60,17 +60,10 @@ hr {
 
 /* Change background on mouse-over */
 .navbar-img a:hover {
-  background-color: #5fdde5;
+
 }
 
 /* Features Section */
-.white-section {
-
-}
-
-#features {
-
-}
 
 .feature-title {
   font-size: 3rem;
@@ -99,25 +92,7 @@ hr {
   line-height: 2;
   margin-top: 50px;
   padding: 50px;
-
-}
-
-.footer-link {
-  margin: 10px;
-  font-weight: bold;
-  padding: 20px;
-}
-
-.copyright {
-  font-weight: lighter;
-  font-size: 0.75rem;
-  color: #EAF6F6;
-  margin: 20px;
-}
-  background-color: #ff4c68;
-  line-height: 2;
-  margin-top: 50px;
-  padding: 50px;
+  text-align: center;
 
 }
 
