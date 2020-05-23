@@ -30,12 +30,7 @@ h1 {
   width: auto;
 }
 
-/* Paragraph Inside Navbar */
-.navbar p {
-  font-family: 'Shadows Into Light Two', cursive;
-  padding-left: 16px;
-  padding-right: 16px;
-}
+
 /* Links inside the navbar */
 .navbar a {
   float: left;
