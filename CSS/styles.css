@@ -9,8 +9,11 @@ font-family: 'Rokkitt', serif;
 font-family: 'Shadows Into Light Two', cursive;
 */
 /* Body */
+
 h1 {
   font-family: 'Chewy', cursive;
   text-align: center;
+  font-size: 3em;
+  font-weight: bold;
 }
 /* Banner */
