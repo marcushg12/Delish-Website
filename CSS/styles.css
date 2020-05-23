@@ -32,12 +32,12 @@ h1 {
 /* Links inside the navbar */
 .navbar a {
   float: left;
+  padding: 14px 16px;
 }
 /* Navbar Image */
 .navbar-img {
   width: 30px;
   height: 30px;
-  margin: 5px;
 }
 
 /* Change background on mouse-over */
