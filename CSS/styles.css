@@ -13,6 +13,14 @@ body {
   margin: 0;
 }
 
+h3 {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+p {
+  font-family: 'Rokkitt', serif;
+}
+
 h1 {
   font-family: 'Chewy', cursive;
   text-align: center;
@@ -48,4 +56,28 @@ h1 {
   background-color: #5fdde5;
 }
 
-/* Banner Image */
+/* Features Section */
+.white-section {
+  background-color: #fff;
+}
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
