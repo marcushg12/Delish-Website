@@ -67,23 +67,20 @@ h1 {
 }
 
 .feature-title {
-  font-size: 1.5rem;
+  font-size: 3rem;
+  font-weight: bold;
 }
 
 .feature-box {
   padding: 4.5%;
+  text-align: center;
 }
 
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-
-.icon:hover {
+.feature-title:hover {
   color: #ff4c68;
 }
 
 .img-features {
-  width: 2rem;
-  height: 2rem;
+  width: 20rem;
+  height: 20rem;
 }
