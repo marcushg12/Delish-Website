@@ -33,7 +33,7 @@ h1 {
 /* Links inside the navbar */
 .navbar a {
   float: left;
-  padding-right: 100px;
+  padding: 14px 16px;
 }
 /* Navbar Image */
 .navbar-img {
