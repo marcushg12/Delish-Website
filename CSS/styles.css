@@ -19,6 +19,7 @@ h3 {
 
 p {
   font-family: 'Rokkitt', serif;
+  font-weight: bold;
 }
 
 h1 {
@@ -58,11 +59,11 @@ h1 {
 
 /* Features Section */
 .white-section {
-  background-color: #fff;
+
 }
 
 #features {
-  position: relative;
+
 }
 
 .feature-title {
@@ -83,6 +84,6 @@ h1 {
 }
 
 .img-features {
-  width:auto;
+  width: 2rem;
   height: 2rem;
 }
