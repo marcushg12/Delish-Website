@@ -13,7 +13,8 @@ font-family: 'Shadows Into Light Two', cursive;
 h1 {
   font-family: 'Chewy', cursive;
   text-align: center;
-  font-size: 3em;
+  font-size: 3rem;
   font-weight: bold;
+  padding-top: 1.5rem;
 }
 /* Banner */
