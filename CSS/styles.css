@@ -29,7 +29,7 @@ h1 {
   font-weight: bold;
 }
 
-.line {
+hr {
   border-style: dotted none none;
   border-width: 10px;
   color: #ffd31d;
