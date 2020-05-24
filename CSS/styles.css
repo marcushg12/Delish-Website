@@ -89,14 +89,14 @@ hr {
 /* Testimonial Section */
 
 .card {
-  width: 18rem;
+  width: 25rem;
   text-align: center;
 }
 
 .card-img-top {
   position: relative;
-  margin-left: 4rem;
-  width: 10rem;
+  margin-left: 5rem;
+  width: 15rem;
   height: auto;
 }
 /* Footer */
