@@ -40,7 +40,7 @@ hr {
 
 /* The navigation bar */
 .navbar {
-  position: fixed; /* Set the navbar to fixed position */
+  position: fixed absolute;; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   height: 2rem;
   width: auto;
@@ -89,6 +89,7 @@ hr {
 
 #testimonials {
   background-color: #ef8172;
+  text-align: center;
 }
 
 .testimonial-text {
@@ -101,18 +102,6 @@ hr {
   border-radius: 100%;
   margin: 20px;
 }
-
-
-#press {
-  background-color: #ef8172;
-  padding-bottom: 3%;
-}
-
-.press-logo {
-  width: 15%;
-  margin: 20px 20px 50px;
-}
-
 
 /* Footer */
 
