@@ -117,20 +117,20 @@ hr {
 .bottom-container {
   background-color: #ff4c68;
   line-height: 2;
-  margin-top: 50px;
-  padding: 50px;
+  margin-top: 3.125rem;
+  padding: 3.125rem;
   text-align: center;
 }
 
 .footer-link {
-  margin: 10px;
+  margin: 0.625rem;
   font-weight: bold;
-  padding: 20px;
+  padding: 1.25rem;
 }
 
 .copyright {
   font-weight: lighter;
   font-size: 1.5rem;
   color: #EAF6F6;
-  margin: 20px;
+  margin: 1.25rem;
 }
