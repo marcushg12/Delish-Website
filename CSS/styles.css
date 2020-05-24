@@ -94,7 +94,8 @@ hr {
 }
 
 .card-img-top {
-  width: 10rem;
+  position: relative;
+  width: 2rem;
   height: auto;
 }
 /* Footer */
