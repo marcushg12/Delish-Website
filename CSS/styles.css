@@ -88,7 +88,15 @@ hr {
 
 /* Testimonial Section */
 
+.card {
+  width: 18rem;
+  text-align: center;
+}
 
+.card-img-top {
+  width: 10rem;
+  height: auto;
+}
 /* Footer */
 
 .bottom-container {
