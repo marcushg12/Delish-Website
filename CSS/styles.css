@@ -95,7 +95,7 @@ hr {
 
 .card-img-top {
   position: relative;
-  text-align: center;
+  margin-left: 4rem;
   width: 10rem;
   height: auto;
 }
