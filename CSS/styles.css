@@ -87,6 +87,9 @@ hr {
 }
 
 /* Testimonial Section */
+#Testimonials {
+  margin: 0 auto;
+}
 
 .card {
   width: 25rem;
@@ -98,6 +101,14 @@ hr {
   margin-left: 5rem;
   width: 15rem;
   height: auto;
+}
+
+.carousel-control-prev-icon {
+  color:#ff4c68;
+}
+
+.carousel-control-next-icon {
+  color:#ff4c68;
 }
 /* Footer */
 
