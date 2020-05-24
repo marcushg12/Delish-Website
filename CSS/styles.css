@@ -95,6 +95,7 @@ hr {
   width: 25rem;
   text-align: center;
   margin: 0 auto;
+  border: none;
 }
 
 .card-img-top {
