@@ -94,6 +94,7 @@ hr {
 .card {
   width: 25rem;
   text-align: center;
+  margin: 0 auto;
 }
 
 .card-img-top {
@@ -104,11 +105,11 @@ hr {
 }
 
 .carousel-control-prev-icon {
-  color:#ff4c68;
+  background-color: #ff4c68;
 }
 
 .carousel-control-next-icon {
-  color:#ff4c68;
+  background-color: #ff4c68;
 }
 /* Footer */
 
